@@ -1,0 +1,18 @@
+h1{
+    font-size : 50px;
+    color : red;
+}
+
+.para{
+    font-size: 25px;
+    color : wheat;
+}
+
+#para2{
+    font-size: 22px;
+    color : whitesmoke;
+}
+
+body{
+    background-color:darkslategrey;
+}
